@@ -1,4 +1,4 @@
-<a href="https://bit.ly/3koZRGY"><img src="pooja.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="bot.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="meenukutty.png" alt="GIF" width="250" height="200"/>
 </p>
