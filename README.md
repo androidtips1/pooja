@@ -57,10 +57,10 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click Pikachu logo to Join Support Group 2👇
+Click pooja logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/C4NIV7D3TFe54ZIHN4pZIU  " target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href=" https://chat.whatsapp.com/C4NIV7D3TFe54ZIHN4pZIU" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -121,7 +121,7 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![androidtios1](https://github.com/androidtios1.png?size=100)](https://github.com/andridtips1) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![androidtios1](https://github.com/androidtios1.png?size=100)](https://github.com/andridtips1) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/androidtips) 
 ----|----|----
 ({Androidtips1 ck](https://github.com/androidtips1) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
