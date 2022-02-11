@@ -1,17 +1,17 @@
-<a href="https://bit.ly/3koZRGY"><img src="bot.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210920/2ae6399b753c4a6e4d92490e52ae17fb.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="meenukutty.png" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
 
-## [![pooja](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+pooja+WA+Bot+repo;Created+by+androidtips1+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![pooja](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Pooja+WA+Bot+repo;Created+by+androidtips1+ck;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="androitips1" src="https://img.shields.io/badge/androidtips1-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="androidtips1" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/androidtips1"><img title="Author" src="https://img.shields.io/badge/Author-androidtips1/pooja?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/androidtips1">androidtips1</a> to
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href=" https://youtu.be/pieDKcICVIM " target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href= "https://youtu.be/pieDKcICVIM"target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
@@ -41,7 +41,7 @@ Project created by <a href="https://github.com/androidtips1">androidtips1</a> to
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=androidtips1&show_icons=true&theme=dark&locale=en" alt="androidtips1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=androidtios1&theme=dark" alt="androidtips1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=androidtipd1&theme=dark" alt="androidtips1" /></p>
 </p>
 
 
@@ -51,16 +51,16 @@ Project created by <a href="https://github.com/androidtips1">androidtips1</a> to
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/C4NIV7D3TFe54ZIHN4pZIU " target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href=" https://chat.whatsapp.com/C4NIV7D3TFe54ZIHN4pZIU" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click pooja logo to Join Support Group 2👇
+Click android logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/C4NIV7D3TFe54ZIHN4pZIU" target="blank"><img align="center" src="meenukutty.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/C4NIV7D3TFe54ZIHN4pZIU" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -68,7 +68,7 @@ Click pooja logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@poojacreator/pooja-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/androidtips1/pooja.git)
      </div>
@@ -100,7 +100,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/androidtips1/pooja
+$ git clone https://github.com/androidtios1/pooja
 $ cd pooja
 $ chmod +x *
 $ npm i
@@ -121,15 +121,14 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![androidtios1](https://github.com/androidtios1.png?size=100)](https://github.com/andridtips1) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/androidtips) 
+  [![androidtios1](https://github.com/androidtips1.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-({Androidtips1 ck](https://github.com/androidtips1) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/androidtips1)| [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributors
-`ck
-Ameer Suhail`
+`Ameer Suhail`
 `Afnanplk`
 `Cyberchekuthan`
 `Farhan-Dqz`
